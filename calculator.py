@@ -1,5 +1,9 @@
-def add(first, second):
-    return first + second
+"""
+Calculator library containing basic math operations.
+"""
 
-def substract(first, second):
-    return first - second
+def add(first_term, second_term):
+    return first_term + second_term
+
+def subtract(first_term, second_term):
+    return first_term - second_term
